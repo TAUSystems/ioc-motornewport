@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 4.5.2
+_src_path: gh:epics-containers/ioc-template
+description: Generic IOC for the motorNewport module
+git_platform: github.com
+github_org: TAUSystems
+name: ioc-motornewport
+repo_uri: git@github.com:TAUSystems/ioc-motornewport.git
+rtems: false
